@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+turbine_data.db
+.env
